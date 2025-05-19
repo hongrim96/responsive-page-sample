@@ -27,3 +27,18 @@
 - 아이디, 이메일 설정
 - git config --global user.name "hongrim96"
 - git config --global user.email "hl6471@gmail.com"
+
+- 참고: 터미널 청소하기 명령어 clear
+
+---------------------------- 위 내용은 최초 한 번만 설정---------------------------------
+
+### gitHub repository 생성하기
+
+- repository 이름은 폴더명과 똑같이 설정하는 것을 추천
+- git 초기화 하기(폴더별로 최초 한 번 설정)
+- git init
+- 파일 추가
+- git add .
+- 수정 내용 커밋 하기
+- git commit -m "반응형 웹페이지 실습 프로젝트 최초 생성"
+- gitHub repository에 최초 업로드
